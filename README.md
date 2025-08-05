@@ -14,7 +14,7 @@ This is a personalized version of a cybersecurity-themed portfolio website, orig
 - **Modified and Maintained by**: Ayush Madavi
 
 ## 🔗 Live Preview
-https://passhunter.github.io/cybersecurity-portfolio/)
+https://passhunter.github.io/cybersecurity-portfolio/
 ---
 
 > This project is open-source and available under the MIT License.
