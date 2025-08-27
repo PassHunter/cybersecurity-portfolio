@@ -11,7 +11,7 @@ This is a personalized version of a cybersecurity-themed portfolio website, orig
 
 ## ✍️ Author
 - **Original Creator**: Rowan Kremers (MIT License)
-- **Modified and Maintained by**: Ayush Madavi
+- **Modified and Maintained by**: PassHunter
 
 ## 🔗 Live Preview
 https://passhunter.github.io/cybersecurity-portfolio/
